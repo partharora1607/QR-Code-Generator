@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.1-using-node",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Arora",
+  "license": "ISC"
+}
